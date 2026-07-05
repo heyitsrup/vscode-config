@@ -1,0 +1,20 @@
+{
+    "recommendations": [
+        // VIM emulator
+        "vscodevim.vim",
+
+        // C++ development
+        "ms-vscode.cpptools",
+        "vadimcn.vscode-lldb",
+        "matepek.vscode-catch2-test-adapter",
+        "eamodio.gitlens",
+        
+        // Scripting for random automation tasks
+        "ms-python.python",
+        
+        // Visual theme
+        "enkia.tokyo-night",
+        "pkief.material-icon-theme",
+        "tonybaloney.vscode-pets"
+    ]
+}
