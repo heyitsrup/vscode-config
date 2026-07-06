@@ -12,7 +12,9 @@
     "explorer.confirmDelete": false,
     "workbench.secondarySideBar.defaultVisibility": "hidden",
     "chat.disableAIFeatures": true,
-
+    "workbench.activityBar.location": "top",
+    "vscode-pets.petSize": "small",
+    "vscode-pets.theme": "forest",
     "editor.formatOnSave": true,
     "[cpp]": {
         "editor.defaultFormatter": "ms-vscode.cpptools",
@@ -23,5 +25,8 @@
         "editor.formatOnSave": true
     },
     "C_Cpp.clang_format_style": "file",
-    "C_Cpp.formatting": "clangFormat"
+    "C_Cpp.formatting": "clangFormat",
+    "editor.fontFamily": "'0xProto Nerd Font', 'Fira Code', monospace",
+    "terminal.integrated.fontFamily": "'0xProto Nerd Font Mono'",
+    "editor.fontLigatures": true
 }
